@@ -1,0 +1,19 @@
+Media Access Control Protocol, MAC协议
+RF（Radio Frequency）
+全球定位系统（GPS，Global Positioning System）
+
+UWAN， Under Water Acoustic Network
+QoS（Quality of Service，服务质量）
+自主水下航行器（AUV）
+
+TDMA(Time Division Multiple Access，时分多址接入)
+FDMA(Frequency Division Multiple Access，频分多址接入)
+CDMA(Code Divison Multiple Access，码分多址接入)
+伪随机码（PN）
+
+CSMA(Carrier Sense Multiple Access，载波侦听)
+
+通知短包(NTF， Notification Packet)
+
+RTS/CTS机制（Request to Send/Clear to Send，发送请求包/清除发送包）
+ARQ（Automatic Repeat Request，自动重传请求）
